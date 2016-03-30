@@ -1,2 +1,0 @@
-Norris/lung1
-Norris/lung2

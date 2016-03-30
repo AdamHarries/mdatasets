@@ -10,9 +10,6 @@ FOLDERS = $(patsubst %.mname, %, $(MNAMES))
 ARCHIVES = $(patsubst %.mname, %.tar.gz, $(MNAMES))
 
 all: $(ARCHIVES) $(FOLDERS)
-	@echo $(MNAMES)
-	@echo $(FOLDERS)
-	@echo $(ARCHIVES)
 	touch $(DFILENAME)
 	echo "" > $(DFILENAME)
 	for f in $(strip $(notdir $(patsubst %.mname,%,$(MNAMES)))); do echo $$f >> $(DFILENAME); done
