@@ -1,8 +1,8 @@
+SNAP/cit-HepPh
+SNAP/web-Stanford
+SNAP/roadNet-TX
 SNAP/cit-Patents
 SNAP/amazon0302
-SNAP/amazon0312
-SNAP/cit-HepPh
 SNAP/roadNet-CA
+SNAP/amazon0312
 SNAP/roadNet-PA
-SNAP/roadNet-TX
-SNAP/web-Stanford
