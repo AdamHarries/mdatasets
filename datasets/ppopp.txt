@@ -1,28 +1,28 @@
 # From MergeSPMV
-dense 
-map1
-bone010
-crankseg_2
-1door
-torso1
-pwtk
-Si41Ge41H72
-shipsec1
-cage15
-circuit5M
-spal_004
-Ruccil
-12month1
-rajat31
-rail4284
-wikipedia-20070206
+# dense 
+# map1
+# bone010
+# crankseg_2
+# 1door
+# torso1
+# pwtk
+# Si41Ge41H72
+# shipsec1
+# cage15
+# circuit5M
+# spal_004
+# Ruccil
+# 12month1
+# rajat31
+# rail4284
+# wikipedia-20070206
 # From Gunrock
-soc-LiveJournal1
-soc-orkut
-hollywood-2009
-indochina-2004
-rmat24
-kron_g500-logn21
-rgg_n_2_24_s0
-road_usa
-roadNet-CA
+# soc-LiveJournal1
+# soc-orkut
+# hollywood-2009
+# indochina-2004
+# rmat24
+# kron_g500-logn21
+# rgg_n_2_24_s0
+# road_usa
+# roadNet-CA
