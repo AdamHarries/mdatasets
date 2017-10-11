@@ -4,7 +4,7 @@ DFILENAME = datasets.txt
 MURL = https://www.cise.ufl.edu/research/sparse/MM
 
 # names of the matrices
-MNAMES = $(patsubst %, %.mname, $(shell cat $(MFILENAME) | grep -v "^#"))
+MNAMES = $(patsubst %, %.mname, $(shell grep -v "^#" $(MFILENAME)))
 # the folders we want to build
 FOLDERS = $(patsubst %.mname, %, $(MNAMES))
 ARCHIVES = $(patsubst %.mname, %.tar.gz, $(MNAMES))
