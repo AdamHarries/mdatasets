@@ -1,0 +1,42 @@
+# Datasets for experiments for CC
+# From "Original" dataset
+HB/1138_bus
+HB/bcsstk18
+HB/bcsstm25
+SNAP/as-735
+SNAP/ca-AstroPh
+SNAP/ca-GrQc
+SNAP/ca-HepPh
+SNAP/ca-HepTh
+SNAP/p2p-Gnutella05
+SNAP/wiki-Vote
+
+# From MergeSPMV
+# dense 
+# map1
+# bone010
+# crankseg_2
+# 1door
+# torso1
+# pwtk
+# Si41Ge41H72
+# shipsec1
+# cage15
+# circuit5M
+# spal_004
+# Ruccil
+# 12month1
+# rajat31
+# rail4284
+# wikipedia-20070206
+
+# From Gunrock
+LAW/hollywood-2009
+LAW/indochina-2004
+DIMACS10/kron_g500-logn21
+DIMACS10/rgg_n_2_24_s0
+SNAP/roadNet-CA
+# soc-LiveJournal1
+# rmat24
+# road_usa
+# soc-orkut
