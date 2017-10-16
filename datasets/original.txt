@@ -1,14 +1,12 @@
 HB/1138_bus
 HB/bcsstk18
 HB/bcsstm25
-Gset/G1
 Gset/G11
 Gset/G14
 Gset/G32
 Gset/G35
 Gset/G43
 Gset/G48
-Gset/G51
 Gset/G55
 Gset/G57
 Gset/G58
