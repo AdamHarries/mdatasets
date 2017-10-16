@@ -1,5 +1,7 @@
+# Datasets from the Gunrock paper
+# soc-orkut
 LAW/hollywood-2009
 LAW/indochina-2004
-SNAP/roadNet-CA
 DIMACS10/kron_g500-logn21
 DIMACS10/rgg_n_2_24_s0
+SNAP/roadNet-CA

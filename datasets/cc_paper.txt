@@ -1,4 +1,16 @@
-# Datasets from the PPOPP paper on SpMV
+# Datasets for experiments for CC
+# From "Original" dataset
+HB/1138_bus
+HB/bcsstk18
+HB/bcsstm25
+SNAP/as-735
+SNAP/ca-AstroPh
+SNAP/ca-GrQc
+SNAP/ca-HepPh
+SNAP/ca-HepTh
+SNAP/p2p-Gnutella05
+SNAP/wiki-Vote
+
 # From MergeSPMV
 # dense 
 # map1
