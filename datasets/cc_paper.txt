@@ -1,42 +1,50 @@
-# Datasets for experiments for CC
-# From "Original" dataset
+##### Datasets for experiments for CC
+###########################################################
+##### From "Original" dataset
+# ADMITTANCE MATRIX 1138 BUS POWER SYSTEM
 HB/1138_bus
+# STIFFNESS MATRIX
 HB/bcsstk18
+# SYMMETRIC MASS MATRIX
 HB/bcsstm25
-SNAP/as-735
+# Amazon product co-purchasing networks: 
+SNAP/amazon0302
+SNAP/amazon0505
+
+# Collaboration networks from physics
 SNAP/ca-AstroPh
-SNAP/ca-GrQc
-SNAP/ca-HepPh
-SNAP/ca-HepTh
-SNAP/p2p-Gnutella05
-SNAP/wiki-Vote
+SNAP/ca-CondMat
+SNAP/cit-HepPh
+SNAP/cit-HepTH
 
-# From MergeSPMV
-# dense 
-# map1
-# bone010
-# crankseg_2
-# 1door
-# torso1
-# pwtk
-# Si41Ge41H72
-# shipsec1
-# cage15
-# circuit5M
-# spal_004
-# Ruccil
-# 12month1
-# rajat31
-# rail4284
-# wikipedia-20070206
+# Road network of Pennsylvania
+SNAP/roadNet-PA
 
-# From Gunrock
+# Web graph of Berkeley and Stanford
+SNAP/web-BerkStan
+
+# Web graph from Google
+SNAP/web-Google
+###########################################################
+
+
+###########################################################
+##### From MergeSPMV PPOP: 
+# Description: Sandia, Xyce circuit simulation matrix (stripped)
+Sandia/ASIC_320k
+# small web crawl of Italian CNR domain
+LAW/cnr-2000
+# FEM problem, temperature and deformation of a steel cylinder
+Botonakis/thermomech_dK
+###########################################################
+
+
+###########################################################
+##### From Gunrock
+# Hollywood movie actor network
 LAW/hollywood-2009
-LAW/indochina-2004
-DIMACS10/kron_g500-logn21
-DIMACS10/rgg_n_2_24_s0
+# Road network of California
 SNAP/roadNet-CA
-# soc-LiveJournal1
-# rmat24
-# road_usa
-# soc-orkut
+# Rajat/rajat31 circuit simulation matrix
+Rajat/rajat31
+###########################################################
