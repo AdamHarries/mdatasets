@@ -2,39 +2,70 @@
 ###########################################################
 ##### From "Original" dataset
 # ADMITTANCE MATRIX 1138 BUS POWER SYSTEM
+# 1,138	1,138	4,054
 HB/1138_bus
 # STIFFNESS MATRIX
+# 11,948	11,948	149,090
 HB/bcsstk18
 # SYMMETRIC MASS MATRIX
+# 15,439	15,439	15,439
 HB/bcsstm25
+# SPLATZMAN SYMMETRIC FINITE DIFFERENCE THREE OCEAN MODEL
+# 1,919	1,919	32,399
+HB/plat1919
+# STIFFNESS MATRIX FOR AUTOMOBILE CHASSIS (MSC NASTRAN) - PATTERN ONLY
+# 44,609	44,609	2,014,701
+HB/bcsstk32
+
 # Amazon product co-purchasing networks: 
+# e.g. amazon 0302 = 3rd march 2003
+# 262,111	262,111	1,234,877
 SNAP/amazon0302
+# 410,236	410,236	3,356,824
 SNAP/amazon0505
 
 # Collaboration networks from physics
+# Collaboration network of Arxiv Astro Physics
+# 18,772	18,772	396,160
 SNAP/ca-AstroPh
+# Collaboration network of Arxiv Condensed Matter
+# 23,133	23,133	186,936
 SNAP/ca-CondMat
+# High Energy Physics paper citation network
+# 34,546	34,546	421,578
 SNAP/cit-HepPh
-SNAP/cit-HepTH
+# High Energy Physics paper citation network 
+# 27,770	27,770	352,807
+SNAP/cit-HepTh
 
 # Road network of Pennsylvania
+# 1,090,920	1,090,920	3,083,796
 SNAP/roadNet-PA
 
 # Web graph of Berkeley and Stanford
+# 685,230	685,230	7,600,595
 SNAP/web-BerkStan
 
 # Web graph from Google
+# 916,428	916,428	5,105,039
 SNAP/web-Google
+
+# FEM 3D nonlinear thermal problem, 8-node bricks as volume elements
+# 17,880	17,880	430,740
+Botonakis/FEM_3D_thermal1
 ###########################################################
 
 
 ###########################################################
 ##### From MergeSPMV PPOP: 
 # Description: Sandia, Xyce circuit simulation matrix (stripped)
+# 321,821	321,821	1,931,828
 Sandia/ASIC_320k
 # small web crawl of Italian CNR domain
+# 325,557	325,557	3,216,152
 LAW/cnr-2000
 # FEM problem, temperature and deformation of a steel cylinder
+# 204,316	204,316	2,846,228
 Botonakis/thermomech_dK
 ###########################################################
 
@@ -42,9 +73,12 @@ Botonakis/thermomech_dK
 ###########################################################
 ##### From Gunrock
 # Hollywood movie actor network
+# 1,139,905	1,139,905	113,891,327
 LAW/hollywood-2009
 # Road network of California
+# 1,971,281	1,971,281	5,533,214
 SNAP/roadNet-CA
 # Rajat/rajat31 circuit simulation matrix
+# 4,690,002	4,690,002	20,316,253
 Rajat/rajat31
 ###########################################################
